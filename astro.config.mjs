@@ -1,1 +1,5 @@
-import { defineConfig } from 'astro\n\nexport default defineConfig({\n  site: 'https://monovfx.com',\n  output: 'static',\n  adapter: '@astrojs/netlify',\n});
+import { defineConfig } from 'astro/config';
+export default defineConfig({
+  site: 'https://monovfx.com',
+  output: 'static',
+});
