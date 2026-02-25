@@ -1,0 +1,1 @@
+{"name": "monovfx","version": "1.0.0","scripts": {"start": "astro dev","build": "astro build"},"dependencies": {"astro": "^2.0.0"}}
